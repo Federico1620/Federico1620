@@ -45,19 +45,22 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/Federico1620">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Federico1620&show_icons=true&theme=radical" />
-</a>
+📈
+![Le mie statistiche GitHub]<a href="https://github.com/Federico1620"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Federico1620&show_icons=true&theme=radical" /></a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://github.com/Federico1620"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:federicocirella1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-federicocirella1997@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/federico-cirella-5109521b1/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Federico%20Cirella-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:federicocirella1997@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-federicocirella1997@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
+
 
 </p>
 
-⭐️ From (https://github.com/Federico1620)
+
