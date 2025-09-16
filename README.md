@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-📈
-![Le mie statistiche GitHub]<a href="https://github.com/Federico1620"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Federico1620&show_icons=true&theme=radical" /></a>
+<a href="https://github.com/Federico1620"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Federico1620&show_icons=true&theme=radical" /></a>
 
 <br/>
 
