@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/Federico1620/Federico1620/master/assets/Federico%20Cirella%20Banner.png">
+<img src="./assets/Night-Coding.gif" alt="Night Coding Banner">
+<img src="./assets/Federico Cirella Banner.png" alt="Federico Cirella Banner">
 
 
 <h2> Hey there👋! I'm Federico</h2>
